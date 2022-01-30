@@ -40,18 +40,18 @@ body {
         font-weight: 400;
         font-size: 14px;
         color: #393939;
+        line-height: 21px;
         // letter-spacing: 0.1px;
         // font-size: 14px;
         // line-height: 20px;
     }
 }
 
-.container {
-    max-width: 1400px;
-}
-
+// .container {
+//     max-width: 1400px;
+// }
 .sec-padding {
-    padding: 60px 0;
+    padding: 70px 0;
 }
 
 .sec-title {
@@ -67,5 +67,20 @@ body {
         font-size: 28px;
         line-height: 42px;
         color: $secondary_color;
+    }
+}
+
+.learn_more {
+    margin: 12px 0;
+    background: $primary_color;
+    color: white;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 32px;
+    a {
+        color: white;
+        text-transform: capitalize;
+        font-weight: 600;
+        font-size: 12px;
     }
 }
