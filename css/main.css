@@ -48,14 +48,11 @@ body p {
   font-weight: 400;
   font-size: 14px;
   color: #393939;
-}
-
-.container {
-  max-width: 1400px;
+  line-height: 21px;
 }
 
 .sec-padding {
-  padding: 60px 0;
+  padding: 70px 0;
 }
 
 .sec-title {
@@ -74,6 +71,22 @@ body p {
   font-size: 28px;
   line-height: 42px;
   color: #051b43;
+}
+
+.learn_more {
+  margin: 12px 0;
+  background: #ff7c61;
+  color: white;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 32px;
+}
+
+.learn_more a {
+  color: white;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-size: 12px;
 }
 
 .mh-left img {
@@ -266,12 +279,12 @@ body p {
 
 .services-single {
   margin: 0 18px;
-  height: 160px;
-  width: 160px;
+  height: 145px;
+  width: 145px;
   border-radius: 50%;
   background: white;
   text-align: center;
-  line-height: 160px;
+  line-height: 145px;
 }
 
 .services-single img {
@@ -291,5 +304,344 @@ body p {
   font-size: 12px;
   font-weight: 600;
   color: #051b43;
+}
+
+.cs-image img {
+  height: 340;
+  width: 280;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 24px;
+}
+
+.countries-content {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  overflow-x: scroll;
+  overflow: hidden;
+}
+
+.countries-single {
+  margin: 0 8px;
+}
+
+#nav {
+  position: absolute;
+  bottom: 0px;
+  width: 120px;
+}
+
+#prev {
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  border: 2px dotted black;
+  cursor: pointer;
+  font-weight: bold;
+  height: 50px;
+  line-height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+#next {
+  position: absolute;
+  right: 0;
+  display: inline-block;
+  border: 2px dotted black;
+  cursor: pointer;
+  font-weight: bold;
+  height: 50px;
+  line-height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.cs-title {
+  margin: 12px 0;
+  text-align: center;
+}
+
+.ma-desc {
+  margin: 18px 0;
+}
+
+.mv-content video {
+  width: 100%;
+  height: 500px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 32px;
+}
+
+.ml-single {
+  border: 4px dotted black;
+  display: inline-block;
+  padding: 90px;
+  border-radius: 32px;
+  margin: 0 12px;
+}
+
+.ml-title h6 {
+  font-size: 32px;
+  color: #051b43;
+}
+
+.mc-single {
+  text-align: center;
+  border: 4px dotted black;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  line-height: 150px;
+  border-radius: 32px;
+  margin: 0 8px;
+}
+
+.ms-icon img {
+  height: 50px;
+  width: 50px;
+}
+
+.ms-title {
+  margin: 12px 0;
+}
+
+.ms-title h6 {
+  font-weight: 600;
+  text-transform: capitalize;
+  font-size: 12px;
+}
+
+.main-testimonial {
+  position: relative;
+}
+
+.outer-circle {
+  margin: 60px 0;
+  position: relative;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  height: 530px;
+  width: 530px;
+  border-radius: 50%;
+  border: 3px dotted rgba(0, 0, 0, 0.287);
+}
+
+.inner-circle {
+  position: absolute;
+  left: 50%;
+  bottom: 50%;
+  -webkit-transform: translate(-50%, 50%);
+          transform: translate(-50%, 50%);
+  height: 330px;
+  width: 330px;
+  border-radius: 50%;
+  border: 3px dotted rgba(0, 0, 0, 0.287);
+}
+
+.center-img {
+  position: absolute;
+  left: 50%;
+  bottom: 50%;
+  -webkit-transform: translate(-50%, 50%);
+          transform: translate(-50%, 50%);
+}
+
+.center-img img {
+  width: 200.03px;
+  height: 200.03px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+  -webkit-box-shadow: 0px 4px 55px rgba(0, 0, 0, 0.25);
+          box-shadow: 0px 4px 55px rgba(0, 0, 0, 0.25);
+}
+
+.student-circle-small {
+  background: #ff7b6183;
+  text-align: center;
+  width: 90.03px;
+  height: 90.03px;
+  line-height: 90.03px;
+  border-radius: 50%;
+}
+
+.student-circle-small img {
+  width: 65.03px;
+  height: 65.03px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  border-radius: 50%;
+}
+
+.one {
+  position: absolute;
+  left: 366px;
+}
+
+.two {
+  position: absolute;
+  bottom: -20px;
+}
+
+.three {
+  position: absolute;
+  left: -154px;
+}
+
+.four {
+  position: absolute;
+  top: -145px;
+  left: 180px;
+}
+
+.five {
+  position: absolute;
+  bottom: -145px;
+  left: 180px;
+}
+
+.main-testimonial .ml-single {
+  padding: 18px;
+  max-height: 250px;
+  min-height: 250px;
+  overflow-y: scroll;
+}
+
+.std-course {
+  padding-top: 3px;
+  padding-bottom: 12px;
+}
+
+.std-course h6 {
+  font-size: 12px;
+  margin: 0;
+  color: #464646;
+  font-weight: 600;
+}
+
+.std-text p {
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.bs-image {
+  margin-right: 12px;
+}
+
+.bs-image img {
+  border-radius: 32px;
+  height: 200px;
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.blog-single {
+  margin-top: 18px;
+}
+
+.date {
+  margin-top: 12px;
+}
+
+.date h6 {
+  font-size: 12px;
+  color: #918f8f;
+  margin-bottom: 3px;
+}
+
+.bs-title h5 {
+  margin-top: 0;
+  font-size: 12px;
+}
+
+.v-events {
+  margin: 24px 0;
+}
+
+.uni-event-single {
+  margin-bottom: 28px;
+  border-bottom: 2px dotted black;
+}
+
+.uni-event-single h6 {
+  font-size: 12px;
+}
+
+.uni-event-single h5 {
+  font-size: 16px;
+}
+
+.date-time {
+  background: #051b43;
+  border-radius: 3px;
+  display: inline-block;
+  margin-bottom: 8px;
+}
+
+.date-time h6 {
+  color: white;
+  padding: 8px;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.v-events {
+  max-height: 330px;
+  min-height: 330px;
+  overflow-y: scroll;
+}
+
+.advices-accordion {
+  margin: 24px 0;
+}
+
+.advices-accordion .card-body {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.advices-accordion .card {
+  border: 0px;
+  border-radius: 32px;
+  margin-bottom: 12px;
+}
+
+.advices-accordion .card-header {
+  background: #ff7b61b5;
+  border-bottom: 0px;
+}
+
+.advices-accordion .btn-link {
+  color: #051b43;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.advices-accordion .card-header {
+  border-radius: 32px;
+}
+
+.custom-side-padding {
+  padding-right: 100px;
+}
+
+.custom-side-padding-ac {
+  padding-right: 85px;
+}
+
+.main-advice .bs-title {
+  margin-top: 12px;
+  text-align: center;
 }
 /*# sourceMappingURL=main.css.map */
