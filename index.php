@@ -231,7 +231,7 @@
 </section>
 
 <!-- main language preparation-->
-<section class="main-language sec-padding pt-0">
+<section class="main-language sec-padding">
     <div class="container">
         <div class="sec-title text-center">
             <h3>language Preparation</h3>
@@ -284,7 +284,7 @@
 
 
 <!-- main connection  -->
-<section class="main-connection sec-padding pt-0 ">
+<section class="main-connection sec-padding ">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -331,7 +331,7 @@
 </section>
 
 <!-- main testimonial -->
-<section class="main-testimonial sec-padding pt-0 ">
+<section class="main-testimonial sec-padding ">
     <div class="container">
         <div class="sec-title text-center">
             <h3>testimonial</h3>
@@ -382,7 +382,7 @@
                     </div>
                 </a>
             </div>
-            <div class="ml-single">
+            <div class="ml-single custom-slider">
                 <a href="#">
                     <div class="std-name">
                         <h5>Anshreya Shrestha</h5>
@@ -458,7 +458,7 @@
 </section>
 
 <!-- main blogs & arcitles -->
-<section class="main-blog sec-padding pt-0">
+<section class="main-blog sec-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-7">
@@ -588,7 +588,7 @@
 
 
 <!-- main advices -->
-<section class="main-advice sec-padding pt-0">
+<section class="main-advice sec-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -681,21 +681,23 @@
                     <div class="blog-single">
                         <a href="#">
                             <div class="bs-image">
-                                <img src="./images/blog-dummy-2.png" alt="">
+                                <img src="./images/advisor-dummy-0.png" alt="">
                             </div>
                             <div class="bs-title">
-                                <h5>Corona Virus is not going down</h5>
+                                <h5>Stefini Shakya</h5>
+                                <h6>Germany Counsellor</h6>
                             </div>
                         </a>
                     </div>
                     <div class="blog-single">
                         <a href="#">
                             <div class="bs-image">
-                                <img src="./images/blog-dummy.png" alt="">
+                                <img src="./images/advisor-dummy-1.png" alt="">
                             </div>
 
                             <div class="bs-title">
-                                <h5>Corona Virus is not going down</h5>
+                                <h5>Season Shrestha</h5>
+                                <h6>Canada counsellor</h6>
                             </div>
                         </a>
                     </div>
@@ -706,18 +708,20 @@
                             </div>
 
                             <div class="bs-title">
-                                <h5>Corona Virus is not going down</h5>
+                                <h5>Praneesha Shrestha</h5>
+                                <h6>Australia counsellor</h6>
                             </div>
                         </a>
                     </div>
                     <div class="blog-single">
                         <a href="#">
                             <div class="bs-image">
-                                <img src="./images/blog-dummy-2.png" alt="">
+                                <img src="./images/advisor-dummy-2.png" alt="">
                             </div>
 
                             <div class="bs-title">
-                                <h5>Corona Virus is not going down</h5>
+                                <h5>Noah Joshi</h5>
+                                <h6>Uk counsellor</h6>
                             </div>
                         </a>
                     </div>
@@ -727,4 +731,38 @@
 
     </div>
 </section>
+
+
+<!-- main universities -->
+<section class="main-university sec-padding pt-0">
+    <div class="container">
+        <div class="sec-title text-center">
+            <h3>Universities</h3>
+            <h2>Universities we have worked with</h2>
+        </div>
+        <div class="us-slider">
+            <div class="us-single">
+                <img src="./images/uni-dummy-0.png" alt="">
+            </div>
+            <div class="us-single">
+                <img src="./images/uni-dummy-1.png" alt="">
+            </div>
+            <div class="us-single">
+                <img src="./images/uni-dummy-2.png" alt="">
+            </div>
+            <div class="us-single">
+                <img src="./images/uni-dummy-3.png" alt="">
+            </div>
+            <div class="us-single">
+                <img src="./images/uni-dummy-0.png" alt="">
+            </div>
+            <div class="us-single">
+                <img src="./images/uni-dummy-0.png" alt="">
+            </div>
+        </div>
+
+    </div>
+</section>
+
+
 <?php include 'footer.php'?>

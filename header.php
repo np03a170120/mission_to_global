@@ -40,23 +40,29 @@
                                     <div class="collapse navbar-collapse" id="navbarNavDropdown">
                                         <ul class="navbar-nav">
                                             <li class="nav-item active">
-                                                <a class="nav-link" href="#">Home <span
+                                                <a class="nav-link" href="index.php">Home <span
                                                         class="sr-only">(current)</span></a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#">Services</a>
+                                                <a class="nav-link" href="services.php">Services</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#">Abroad Study</a>
+                                                <a class="nav-link" href="destination.php">Abroad Study</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#">Team</a>
+                                                <a class="nav-link" href="language.php">Preparation</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="team.php">Team</a>
+                                            </li>
+                                            <li class="nav-item">
+                                                <a class="nav-link" href="testimonial.php">testimonial</a>
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link" href="#">Appointment</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="#">Events</a>
+                                                <a class="nav-link" href="events.php">Events</a>
                                             </li>
                                             <!-- <li class="nav-item dropdown">
                                                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink"
