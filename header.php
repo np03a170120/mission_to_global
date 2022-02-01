@@ -83,7 +83,8 @@
                     </div>
                     <div class="col-md-2 disp">
                         <div class="header-contact">
-                            <a href="#">Contact <span><img src="./images/telephone-icon.png" alt=""></span></a>
+                            <a href="contact.php">Contact <span><img src="./images/telephone-icon.png"
+                                        alt=""></span></a>
                         </div>
                     </div>
                 </div>

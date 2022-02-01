@@ -44,7 +44,8 @@
                         </p>
                     </div>
                     <div class="header-contact">
-                        <a href="#">Get Started <span><img src="./images/btn-rocket-icon.png" alt=""></span></a>
+                        <a href="student_detail.php">Get Started <span><img src="./images/btn-rocket-icon.png"
+                                    alt=""></span></a>
                     </div>
                 </div>
             </div>
