@@ -38,6 +38,26 @@
                             <h6>University of Wolverhampton</h6>
                         </div>
                     </div>
+                    <div class="resource-content">
+                        <div class="resource">
+                            <h5>resources she wants to share</h5>
+                        </div>
+                        <ul>
+                            <li><a href="#">
+                                    https://www.wlv.ac.uk/
+                                </a></li>
+                            <li><a href="#">
+                                    https://www.kingston.ac.uk/
+                                </a></li>
+                            <li><a href="#">
+                                    https://www.bystored.com/blog/cost-of-living-in-london#1
+                                </a></li>
+                            <li><a href="#">
+                                    https://thenext.edu.np/abroad/study-in-uk-united-kingdom/
+                                </a></li>
+                        </ul>
+
+                    </div>
                 </div>
                 <div class="testimonial-text">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi quae quam sequi eaque veniam.
@@ -65,6 +85,26 @@
                             <h6>Msc. Data Science</h6>
                             <h6>University of Wolverhampton</h6>
                         </div>
+                    </div>
+                    <div class="resource-content">
+                        <div class="resource">
+                            <h5>resources he wants to share</h5>
+                        </div>
+                        <ul>
+                            <li><a href="#">
+                                    https://www.wlv.ac.uk/
+                                </a></li>
+                            <li><a href="#">
+                                    https://www.kingston.ac.uk/
+                                </a></li>
+                            <li><a href="#">
+                                    https://www.bystored.com/blog/cost-of-living-in-london#1
+                                </a></li>
+                            <li><a href="#">
+                                    https://thenext.edu.np/abroad/study-in-uk-united-kingdom/
+                                </a></li>
+                        </ul>
+
                     </div>
                 </div>
                 <div class="testimonial-text">
