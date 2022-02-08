@@ -159,3 +159,10 @@ $(".us-slider").slick({
         // instead of a settings object
     ],
 });
+
+// $("#toggle-btn").click(function() {
+//     $(".book-class").toggle();
+// });
+// $("#toggle-btn-0").click(function() {
+//     $(".vevent").toggle();
+// });

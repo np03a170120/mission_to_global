@@ -916,7 +916,7 @@
         border-radius: 0px;
         border: 0px;
         background: none;
-        border-bottom: 1px solid #848484;
+        border: 1px solid #dddddd;
         font-size: 14px;
         font-weight: 500;
         margin-bottom: 36px;
@@ -1139,5 +1139,21 @@
     h5 {
         font-size: 13px;
         text-transform: capitalize;
+    }
+}
+
+.book-language {
+    margin: 52px 0;
+}
+
+.disp-sb {
+    padding: 6px 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    i {
+        font-size: 24px;
+        color: $primary_color;
     }
 }
